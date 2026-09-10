@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Modelo treinado: regerado a cada execução do pipeline (python main.py)
+models/*.joblib
